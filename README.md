@@ -82,7 +82,7 @@ Calculate the number of additionally attracted customers due to the mailing. Sav
 
 <img src="https://i.imgur.com/3oORjch.png" alt="Excel"/>
 
-he complete solution with formulas is available in the Excel file in this repository.
+Complete solution with formulas is available in the Excel file in this repository.
 
 ### Task for Outlier Data Cleaning:
 
